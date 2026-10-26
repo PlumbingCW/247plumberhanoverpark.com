@@ -1,0 +1,2 @@
+# Intentionally empty. Cloudflare Pages resolves slug/index.html routes natively.
+# Add only real cross-domain or legacy-path 301s here.
